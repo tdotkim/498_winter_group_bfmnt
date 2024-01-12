@@ -2,7 +2,11 @@
 
 *./example_code*: This holds examples for the using python or curl to get the data
 
+*./example_code/download_with_python/big_import.ipynb*: does all the data pulls
+
 *./etl*: how to join the datasets
+
+uncomment out the sex offenders lines if you need to refresh it. still need to work on a incremental refresh option for speed.
 
 *./geojsons*: This holds the geojsons for the different ways Chicago segments the city
 
